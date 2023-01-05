@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xjngZ+VsI+UgF9XtLPSgIoIHO3Wt17wH340E7ZcrogTzgxMW1asy1T4RQ/9IdUiXyxdAFk7QmRyxI1ppuyfVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\LibraryTest\\LibraryTest\\LibraryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\libphonenumber-csharp\\8.13.3\\libphonenumber-csharp.8.13.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\timezoneconverter\\6.0.1\\timezoneconverter.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
